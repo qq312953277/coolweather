@@ -1,6 +1,5 @@
 package com.example.yong04zhou.coolweather;
 
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Build;
